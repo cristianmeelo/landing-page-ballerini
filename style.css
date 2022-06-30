@@ -37,6 +37,12 @@ body {
     font-size: 18;
 }
 
+.cabecalho-menu-item:hover {
+  
+  text-decoration-color:  rgba(236, 214, 196, 0.53);
+  text-shadow: 2px 2px black;
+}
+
 .conteudo {
     margin-bottom: 48px;
     border-top: 0.4px solid #FFF2E7;
