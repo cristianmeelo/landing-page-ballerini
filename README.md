@@ -118,13 +118,16 @@ LandingPage-Ballerini
 <!-- ACKNOWLEDGMENTS -->
 
 ## Acknowledgments
+This space list helpful resources and credits.
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
-- [Figma Design](https://www.figma.com/file/myqP66iQwzjwjrIAJyyrip/BalleBot?node-id=0%3A1&t=xaxOj9U8380vQL7r-0)
-- [Stackblitz Code](https://stackblitz.com/edit/web-platform-fljbsg?file=index.html,styles.css)
-- [Video Tutorial](https://www.youtube.com/watch?v=llF6vD-RljE&t=138s&ab_channel=RafaellaBallerini)
-- [Github Ballerini](https://github.com/rafaballerini)
+- [Figma Design][figma-link]
+- [Stackblitz Code][stackblitz-link]
+- [Video Tutorial][tutorial-video]
+- [Github Ballerini][partner-github]
+
+This space list helpful resources and credits.
+
 
 
 <p align="right"><a href="#readme-top">back to top</a></p>
@@ -146,35 +149,37 @@ with ❤️
 </p>
 </div>
 
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: https://images.unsplash.com/photo-1623697899813-cf12fa9bc1c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1853&q=80
+[product-screenshot]: https://images.unsplash.com/photo-1536560942313-1530f4653ac3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80
+
+[figma-link]: https://www.figma.com/file/myqP66iQwzjwjrIAJyyrip/BalleBot?node-id=0%3A1&t=xaxOj9U8380vQL7r-0
+
+[stackblitz-link]: https://stackblitz.com/edit/web-platform-fljbsg?file=index.html,styles.css
+
+[tutorial-video]: https://www.youtube.com/watch?v=llF6vD-RljE&t=138s&ab_channel=RafaellaBallerini
+
+[partner-github]: https://github.com/rafaballerini
+
+<!-- SHIELDS -->
+[HTML5]:https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[CSS3]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
+[SASS]:https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
 [next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[next-url]: https://nextjs.org/
 [react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[react-url]: https://reactjs.org/
 [vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[vue-url]: https://vuejs.org/
 [angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[angular-url]: https://angular.io/
 [svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[svelte-url]: https://svelte.dev/
-[laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[laravel-url]: https://laravel.com
 [bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[bootstrap-url]: https://getbootstrap.com
 [jquery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
+
+<!-- URL`S -->
+[next-url]: https://nextjs.org/
+[react-url]: https://reactjs.org/
+[vue-url]: https://vuejs.org/
+[angular-url]: https://angular.io/
+[bootstrap-url]: https://getbootstrap.com
 [jquery-url]: https://jquery.com
+[svelte-url]: https://svelte.dev/
