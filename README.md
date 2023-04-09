@@ -100,7 +100,7 @@ The landing page is designed to provide relevant and straightforward information
 ## Project Tree
 
 ```
-LandingPage-Ballerini
+landing-page-ballerini
 ├─ README.md
 ├─ assets
 │  ├─ BalleBot_page-0001.jpg
@@ -153,7 +153,7 @@ with ❤️
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[product-screenshot]: https://images.unsplash.com/photo-1536560942313-1530f4653ac3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80
+[product-screenshot]: https://images.unsplash.com/photo-1623697899813-cf12fa9bc1c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1853&q=80
 
 [figma-link]: https://www.figma.com/file/myqP66iQwzjwjrIAJyyrip/BalleBot?node-id=0%3A1&t=xaxOj9U8380vQL7r-0
 
@@ -166,20 +166,3 @@ with ❤️
 <!-- SHIELDS -->
 [HTML5]:https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [CSS3]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
-[SASS]:https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
-[next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[jquery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-
-<!-- URL`S -->
-[next-url]: https://nextjs.org/
-[react-url]: https://reactjs.org/
-[vue-url]: https://vuejs.org/
-[angular-url]: https://angular.io/
-[bootstrap-url]: https://getbootstrap.com
-[jquery-url]: https://jquery.com
-[svelte-url]: https://svelte.dev/
